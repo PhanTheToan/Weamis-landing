@@ -1,10 +1,10 @@
 # Weamis-landing
 
-Weamis-landing là một dự án mã nguồn mở nhằm mục đích tạo ra một trang web khởi nghiệp trong lĩnh vực công nghệ thông tin. Dự án này có thể được sử dụng như một mẫu hoặc nền tảng để xây dựng các trang web tương tự.
+Weamis-landing là một dự án trang web landing để cung cấp các dịch vụ bán hàng về AI, Dịch vụ Web, Chatbot.
 
 ## Mục tiêu
 
-Cung cấp một khung làm việc cho những người muốn phát triển các dự án web khởi nghiệp, đồng thời khuyến khích cộng đồng đóng góp và cải tiến dự án này.
+Cung cấp thông tin về các dịch vụ cửa hàng cung cấp để hỗ trợ cho các doanh nghiệp.
 
 ## Công nghệ sử dụng
 
@@ -37,10 +37,6 @@ npm run dev
 ## Đóng góp
 
 Chúng tôi hoan nghênh mọi đóng góp từ cộng đồng! Nếu bạn muốn đóng góp, hãy tạo một pull request hoặc mở issue để thảo luận.
-
-## Giấy phép
-
-Dự án này không có giấy phép cụ thể. Vui lòng tham khảo các điều khoản và điều kiện của bạn khi sử dụng mã nguồn.
 
 ## Liên hệ
 

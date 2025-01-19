@@ -1,0 +1,28 @@
+.custom-bullets {
+    list-style: none;
+    padding-left: 0;
+}
+
+.custom-bullets li {
+    padding-left: 25px;
+    position: relative;
+    margin: 50px 0;
+}
+
+.custom-bullets li::before {
+    content: "•";
+    color: #007bff; /* màu của bullet */
+    font-size: 20px;
+    position: absolute;
+    left: 0;
+    top: -2px;
+}
+
+.zubuz-section-padding50 {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.padding__top {
+    padding: 100px 0 20px!important;
+}

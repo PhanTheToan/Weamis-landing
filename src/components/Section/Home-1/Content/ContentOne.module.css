@@ -1,0 +1,32 @@
+/* In ContentOne.module.css */
+.shineAndFloat {
+  position: relative;
+  overflow: hidden;
+  animation: floating 3s ease-in-out infinite;
+}
+
+.shineAndFloat::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -75%;
+  width: 50%;
+  height: 100%;
+  background: linear-gradient(
+    to right,
+    rgba(255, 255, 255, 0) 0%,
+    rgba(255, 255, 255, 0.3) 100%
+  );
+  transform: skewX(-25deg);
+  animation: shine 2s infinite;
+}
+
+@keyframes floating {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-15px); }
+  100% { transform: translateY(0px); }
+}
+
+@keyframes shine {
+  100% { left: 125%; }
+}

@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Thiết kế Website",
+    "icon": "/weamis/web-icon.jpg",
+    "description": "Thiết kế website chuyên nghiệp, hiện đại, tối ưu trải nghiệm người dùng và chuẩn SEO, đáp ứng đa dạng nhu cầu với các gói dịch vụ linh hoạt.",
+    "link": "thiet-ke-website"
+  },
+  {
+    "title": "Chuyển đổi số",
+    "icon": "/weamis/digital-transformation-icon.png",
+    "description": "Tư vấn và triển khai giải pháp chuyển đổi số toàn diện, giúp doanh nghiệp ứng dụng công nghệ vào hoạt động kinh doanh hiệu quả.",
+    "link": "chuyen-doi-so"
+  },
+  {
+    "title": "Ứng dụng chatbot - WeAI",
+    "icon": "/weamis/weai-icon.jpeg",
+    "description": "Phát triển các ứng dụng AI giúp doanh nghiệp tối ưu hóa hoạt động, nâng cao năng suất và cải thiện trải nghiệm khách hàng.",
+    "link": "ung-dung-ai"
+  },
+  {
+    "title": "Wifi Marketing",
+    "icon": "/weamis/wifi-marketing-icon.png",
+    "description": "Tận dụng công nghệ Wifi để tiếp cận và tương tác với khách hàng, thu thập dữ liệu và tăng doanh số bán hàng.",
+    "link": "wifi-marketing",
+    "status": "coming soon"
+  },
+  {
+    "title": "Ứng dụng VR",
+    "icon": "/weamis/vr-icon.png",
+    "description": "Ứng dụng công nghệ thực tế ảo (VR) để tạo ra trải nghiệm sống động và tương tác cho người dùng trong mọi lĩnh vực.",
+    "link": "ung-dung-vr",
+    "status": "coming soon"
+  },
+  {
+    "title": "Thiết kế Branding",
+    "icon": "/weamis/branding-icon.png",
+    "description": "Chiến lược thương hiệu toàn diện, từ thiết kế logo, bộ nhận diện thương hiệu đến định vị thương hiệu và truyền thông.",
+    "link": "thiet-ke-branding",
+    "status": "coming soon"
+  }
+]

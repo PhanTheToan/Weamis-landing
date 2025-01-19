@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "~/*": [
+        "./src/*"
+      ],
+      "~/components": [
+        "./src/components/*"
+      ],
+      "~/assets": [
+        "./src/assets/*"
+      ],
+      "~/public": [
+        "./public/*"
+      ],
+      "@/*": [
+        "./src/*"
+      ]
+    },
+    "skipLibCheck": true,
+    "strict": false
+  }
+}
